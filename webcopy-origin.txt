@@ -1,0 +1,304 @@
+Uri: https://cdn.ampproject.org/v0.js
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\v0.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-ad-0.1.js
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\v0\amp-ad-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-analytics-0.1.js
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\v0\amp-analytics-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-apester-media-0.1.js
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\v0\amp-apester-media-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-iframe-0.1.js
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\v0\amp-iframe-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-instagram-0.1.js
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\v0\amp-instagram-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-sidebar-0.1.js
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\v0\amp-sidebar-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-social-share-0.1.js
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\v0\amp-social-share-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-soundcloud-0.1.js
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\v0\amp-soundcloud-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-sticky-ad-1.0.js
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\v0\amp-sticky-ad-1.0.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-twitter-0.1.js
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\v0\amp-twitter-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-youtube-0.1.js
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\v0\amp-youtube-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.gravitec.net/storage/ac81c471b10a28d123ebe01d3e84f381/client.js
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\storage\ac81c471b10a28d123ebe01d3e84f381\client.js
+Content Type: application/javascript
+
+Uri: https://cdn.membrana.media/upr/ym.js?v=3
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\upr\ym.js
+Content Type: application/javascript
+
+Uri: https://cdn.onthe.io/io.js/xWy68oZpibnY
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\io.js\xWy68oZpibnY
+Content Type: text/javascript
+
+Uri: https://connect.facebook.net/uk_UA/sdk.js
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\uk_UA\sdk.js
+Content Type: application/x-javascript
+
+Uri: https://fonts.googleapis.com/css?family=Fira+Sans:400,700,800&subset=cyrillic
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/firasans/v17/va9B4kDNxMZdWfMOD5VnLK3eQhf_.ttf
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\s\firasans\v17\va9B4kDNxMZdWfMOD5VnLK3eQhf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v17/va9B4kDNxMZdWfMOD5VnMK7eQhf_.ttf
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\s\firasans\v17\va9B4kDNxMZdWfMOD5VnMK7eQhf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v17/va9E4kDNxMZdWfMOD5Vvk4jO.ttf
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\s\firasans\v17\va9E4kDNxMZdWfMOD5Vvk4jO.ttf
+Content Type: font/ttf
+
+Uri: https://img.pravda.com/files/5/0/50964eb-european-commission.svg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\files\5\0\50964eb-european-commission.svg
+Content Type: image/svg+xml
+
+Uri: https://img.pravda.com/images/doc/2/3/23c9586-korupciya2.avif
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\doc\2\3\23c9586-korupciya2.avif
+Content Type: image/avif
+
+Uri: https://img.pravda.com/images/doc/2/3/23c9586-korupciya2.jpg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\doc\2\3\23c9586-korupciya2.jpg
+Content Type: image/jpeg
+
+Uri: https://img.pravda.com/images/doc/3/9/393df8f-f-ajd-dawaaeqwr--2-.jpg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\doc\3\9\393df8f-f-ajd-dawaaeqwr--2-.jpg
+Content Type: image/jpeg
+
+Uri: https://img.pravda.com/images/doc/6/7/672dd71-400.jpg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\doc\6\7\672dd71-400.jpg
+Content Type: image/jpeg
+
+Uri: https://img.pravda.com/images/doc/8/1/81a4c26-gaza--1-.jpg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\doc\8\1\81a4c26-gaza--1-.jpg
+Content Type: image/jpeg
+
+Uri: https://img.pravda.com/images/doc/8/f/8fa5756-korupciya.avif
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\doc\8\f\8fa5756-korupciya.avif
+Content Type: image/avif
+
+Uri: https://img.pravda.com/images/doc/8/f/8fa5756-korupciya.jpg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\doc\8\f\8fa5756-korupciya.jpg
+Content Type: image/jpeg
+
+Uri: https://img.pravda.com/images/doc/a/c/ac699fb-korupciya1.avif
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\doc\a\c\ac699fb-korupciya1.avif
+Content Type: image/avif
+
+Uri: https://img.pravda.com/images/doc/a/c/ac699fb-korupciya1.jpg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\doc\a\c\ac699fb-korupciya1.jpg
+Content Type: image/jpeg
+
+Uri: https://img.pravda.com/images/doc/b/4/b45ef09-dubinskyi-o--2-.jpg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\doc\b\4\b45ef09-dubinskyi-o--2-.jpg
+Content Type: image/jpeg
+
+Uri: https://img.pravda.com/images/doc/c/c/cc74f5e-voennyj-stan400.jpg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\doc\c\c\cc74f5e-voennyj-stan400.jpg
+Content Type: image/jpeg
+
+Uri: https://img.pravda.com/images/doc/d/6/d64f7cc-biden--1-.jpg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\doc\d\6\d64f7cc-biden--1-.jpg
+Content Type: image/jpeg
+
+Uri: https://img.pravda.com/images/doc/f/5/f5bbb8c-bajden-i-si400.jpg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\doc\f\5\f5bbb8c-bajden-i-si400.jpg
+Content Type: image/jpeg
+
+Uri: https://img.pravda.com/images/doc/f/f/ff95f72-habar6901.avif
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\doc\f\f\ff95f72-habar6901.avif
+Content Type: image/avif
+
+Uri: https://img.pravda.com/images/doc/f/f/ff95f72-habar6901.jpg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\doc\f\f\ff95f72-habar6901.jpg
+Content Type: image/jpeg
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\tag\js\f.txt
+Content Type: text/javascript
+
+Uri: https://www.pravda.com.ua/android-chrome-192x192.png
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\android-chrome-192x192.png
+Content Type: image/png
+
+Uri: https://www.pravda.com.ua/apple-touch-icon-114x114.png
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://www.pravda.com.ua/apple-touch-icon-120x120.png
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\apple-touch-icon-120x120.png
+Content Type: image/png
+
+Uri: https://www.pravda.com.ua/apple-touch-icon-144x144.png
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: https://www.pravda.com.ua/apple-touch-icon-152x152.png
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\apple-touch-icon-152x152.png
+Content Type: image/png
+
+Uri: https://www.pravda.com.ua/apple-touch-icon-180x180.png
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\apple-touch-icon-180x180.png
+Content Type: image/png
+
+Uri: https://www.pravda.com.ua/apple-touch-icon-57x57.png
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://www.pravda.com.ua/apple-touch-icon-72x72.png
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://www.pravda.com.ua/apple-touch-icon-76x76.png
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\apple-touch-icon-76x76.png
+Content Type: image/png
+
+Uri: https://www.pravda.com.ua/counter/7426687
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\counter\7426687
+Content Type: image/gif
+
+Uri: https://www.pravda.com.ua/favicon-32x32.png
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.pravda.com.ua/favicon-96x96.png
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://www.pravda.com.ua/favicon.ico
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.pravda.com.ua/images/v6/ico_eye.svg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\v6\ico_eye.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pravda.com.ua/images/v6/ico_fb.svg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\v6\ico_fb.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pravda.com.ua/images/v6/ico_instagram.svg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\v6\ico_instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pravda.com.ua/images/v6/ico_rss.svg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\v6\ico_rss.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pravda.com.ua/images/v6/ico_telegram.svg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\v6\ico_telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pravda.com.ua/images/v6/ico_tiktok.svg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\v6\ico_tiktok.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pravda.com.ua/images/v6/ico_twitter.svg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\v6\ico_twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pravda.com.ua/images/v6/ico_youtube.svg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\v6\ico_youtube.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pravda.com.ua/images/v6/interfax.svg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\v6\interfax.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pravda.com.ua/images/v6/quixote.svg
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\images\v6\quixote.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pravda.com.ua/manifest.json
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\manifest.json
+Content Type: application/json
+
+Uri: https://www.pravda.com.ua/misc/jquery.sticky.js
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\misc\jquery.sticky.js
+Content Type: application/javascript
+
+Uri: https://www.pravda.com.ua/misc/v6/common.js?8
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\misc\v6\common.js
+Content Type: application/javascript
+
+Uri: https://www.pravda.com.ua/misc/v6/index.css?30
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\misc\v6\index.css
+Content Type: text/css
+
+Uri: https://www.pravda.com.ua/misc/v6/jquery-1.12.4.min.js
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\misc\v6\jquery-1.12.4.min.js
+Content Type: application/javascript
+
+Uri: https://www.pravda.com.ua/misc/v6/sticky-kit.js
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\misc\v6\sticky-kit.js
+Content Type: application/javascript
+
+Uri: https://www.pravda.com.ua/rss/
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\rss\index.htm
+Content Type: text/xml
+
+Uri: https://www.pravda.com.ua/rss/view_mainnews/
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\rss\view_mainnews\index.htm
+Content Type: text/xml
+
+Uri: https://www.pravda.com.ua/rss/view_news/
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\rss\view_news\index.htm
+Content Type: text/xml
+
+Uri: https://www.pravda.com.ua/rss/view_pubs/
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\rss\view_pubs\index.htm
+Content Type: text/xml
+
+Uri: https://www.pravda.com.ua/rus/news/2023/11/1/7426687/
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\rus\news\2023\11\1\7426687\index.htm
+Content Type: text/html
+
+Uri: https://www.pravda.com.ua/rus/news/2023/11/1/7426687/index.amp
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\rus\news\2023\11\1\7426687\index.amp.html
+Content Type: text/html
+
+Uri: https://www.pravda.com.ua/rus/rss/
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\rus\rss\index.htm
+Content Type: text/xml
+
+Uri: https://www.pravda.com.ua/rus/rss/view_mainnews/
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\rus\rss\view_mainnews\index.htm
+Content Type: text/xml
+
+Uri: https://www.pravda.com.ua/rus/rss/view_news/
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\rus\rss\view_news\index.htm
+Content Type: text/xml
+
+Uri: https://www.pravda.com.ua/rus/rss/view_pubs/
+File Name: C:\Users\38095\Desktop\task_test\www.pravda.com.ua\rus\rss\view_pubs\index.htm
+Content Type: text/xml
+
